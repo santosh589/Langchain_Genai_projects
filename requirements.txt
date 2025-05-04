@@ -13,3 +13,8 @@ pypdf
 chromadb
 faiss-cpu
 lancedb
+duckduckgo-search
+langchainhub
+langchain-groq
+beautifulsoup4
+groq
