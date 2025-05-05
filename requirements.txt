@@ -18,3 +18,4 @@ langchainhub
 langchain-groq
 beautifulsoup4
 groq
+sentence_transformers
